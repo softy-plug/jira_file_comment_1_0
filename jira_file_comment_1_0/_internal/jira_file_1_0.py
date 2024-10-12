@@ -46,3 +46,5 @@ for row in range(2, sheet_jr.max_row + 1):  # Start from row 2
         print(f"Файл '{file_name}' не найден. Задача {issue_key} не была обновлена.")
 
 input("Отправка сообщений в заявки завершена. Нажмите Enter для закрытия окна")
+
+# softy_plug
